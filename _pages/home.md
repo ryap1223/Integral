@@ -12,19 +12,21 @@ ample_page_layout:
 dk_slieron:
   - 'N'
 ---
-<div><span style="font-weight: 400; font-size: 14pt;">Welcome!</span><span style="font-weight: 400;">
-</span><span style="font-weight: 400;">
-</span><strong><span style="font-size: 24pt;">"Your Worldwide<img class="right-logo alignright" src="http://integralva.com/wp-content/uploads/2016/03/WEB-PNG-300x245.png" alt="world-wide-logo" width="544" height="444" /> </span></strong></div>
-<div><strong><span style="font-size: 24pt;">Workforce Awaits!"</span></strong></div>
-&nbsp;
-<div><span style="font-size: 14pt;"><span style="font-weight: 400;">Join Integral and expand your business horizons as we give you the power to go further.  </span></span><span style="font-size: 14pt;"><span style="font-weight: 400;">Apart from providing support to your company with our various </span><b><a href="http://integralva.com/services">services</a></b><span style="font-weight: 400;">, </span></span><span style="font-size: 14pt;"><span style="font-weight: 400;">we also aim to create a growth strategy and provide solutions </span></span></div>
-<div><span style="font-size: 14pt;"><span style="font-weight: 400;">to create leverage for your business. </span></span></div>
-<div><span style="font-size: 14pt;"><span style="font-weight: 400;">Our highly skilled </span><b><a href="http://integralva.com/services/executive-virtual-assistant">virtual assistants </a></b><span style="font-weight: 400;">have you covered with their varied skill-sets and talents.</span></span></div>
-<span style="font-size: 14pt;"><span style="font-weight: 400;">
-</span><span style="font-weight: 400;">With Integral, you’ll increase your productivity &amp; income, reduce your expenses, and most importantly, free up your valuable time.</span></span>
+<div class="welcome-text">
 
 &nbsp;
 
-<span style="font-size: 14pt;"><b><a href="http://integralva.com/contact-us">Call us </a></b><span style="font-weight: 400;">up and explore the possibilities!</span></span>
+<img class="wp-image-239 alignright" src="http://integralva.com/wp-content/uploads/2016/03/WEB-PNG-300x245.png" alt="world-wide-logo" width="516" height="422" />
 
-&nbsp;
+<span style="font-size: 26pt;"><strong>Welcome! Your Worldwide
+Workforce Awaits!</strong></span>
+
+<span style="font-size: 16pt;">Join Integral and expand your business horizons as we give you the power to go further. A</span>
+<span style="font-size: 16pt;"> part from providing support to your company with our various <a href="http://integralva.com/services"><strong>services</strong></a>, we also aim to create a growth strategy and provide solutions to create leverage for your business. Our highly skilled <a href="http://integralva.com/services/executive-virtual-assistant"><strong>virtual assistants</strong></a> have you covered with the</span>
+<span style="font-size: 16pt;"> ir varied skill-sets and talents.</span>
+
+<span style="font-size: 16pt;">With Integral, you’ll increase your productivity &amp; income, reduce your expenses, and most importantly, free up your valuable time.</span>
+<span style="font-size: 16pt;"> <a href="http://integralva.com/contact-us"><strong>
+Call us</strong></a> up and explore the possibilities!</span>
+
+</div>
