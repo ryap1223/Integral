@@ -77,13 +77,18 @@ wp_head();
                            'theme_location' => 'primary',
                            'menu_class'    => 'menu menu-primary-container'
                         )
-                     );
+                     ); ?>
+
+                     <!-- @ryap1223 Add icons here!! -->
+
+                  <?php
                   }
                   else {
                      wp_page_menu();
                   }
                   ?>
                </nav>
+
                <i class="fa fa-search search-top"></i>
                <div class="search-form-top">
                   <?php get_search_form(); ?>

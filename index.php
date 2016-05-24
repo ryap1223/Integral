@@ -7,7 +7,6 @@
  * @since Ample 0.1
  */
 ?>
-
 <?php get_header();
 
    do_action( 'ample_before_body_content' ); ?>
@@ -16,6 +15,7 @@
       <div class="inner-wrap">
          <div id="primary">
             <div id="content">
+               
 
                <?php if ( have_posts() ) : ?>
 
@@ -25,7 +25,7 @@
 
                   <?php endwhile; ?>
 
-                  <?php get_template_part( 'navigation', 'none' ); ?>
+                  <?php ( 'navigation', 'none' ); ?>
 
                <?php else : ?>
 
@@ -39,6 +39,7 @@
          <?php ample_sidebar_select(); ?>
       </div><!-- .inner-wrap -->
    </div><!-- .single-page -->
+
 
    <?php do_action( 'ample_after_body_content' );
 get_footer(); ?>

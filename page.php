@@ -37,5 +37,6 @@
       </div><!-- .inner-wrap -->
    </div><!-- .single-page -->
 
+
    <?php do_action( 'ample_after_body_content' );
 get_footer(); ?>
